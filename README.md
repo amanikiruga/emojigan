@@ -1,6 +1,6 @@
 # emojigan
 Emoji Dataset I compiled (4000+ emojis) 🤩😫 [link](https://drive.google.com/drive/folders/1kqKJU3o8v3mIS2F4kpE_kRBUjYXUncSm)
-
+![training emojigan timelapse](img/emojigan.gif)
 ## Motivation 
 This project was to explore just what happens when you train a simple GAN model (DCGAN) on a toy dataset that you know pretty much how every data sample looks like. Will the GAN create completely novel emojis? Or will it memorize? How will it create these emojis? Will it vary the color? Compose two or more emojis together? These are the types of questions I wanted to find out... I discovered several examples of both memorization and completely new emojis shown here: 
 
